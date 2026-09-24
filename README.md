@@ -20,7 +20,10 @@ Built a computer vision system that identifies and segments a target biological 
 
 Dataset-(https://www.google.com/url?q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fiamtapendu%2Fchest-x-ray-lungs-segmentation)
 
-*Number of images: 704
-*Number of corresponding masks: 704
-*Dataset source: Kaggle
-*Dataset Description: A collection of 704 chest X-ray images with corresponding lung segmentation masks, derived from the Montgomery County and Shenzhen Chest X-ray databases. Although the source dataset contains tuberculosis-related clinical information, this project uses only the chest X-ray images and their corresponding lung masks for the lung segmentation task. TB labels and demographic metadata are not used by the segmentation model.
+1.Number of images: 704
+
+2.Number of corresponding masks: 704
+
+3.Dataset source: Kaggle
+
+4.Dataset Description: A collection of 704 chest X-ray images with corresponding lung segmentation masks, derived from the Montgomery County and Shenzhen Chest X-ray databases. Although the source dataset contains tuberculosis-related clinical information, this project uses only the chest X-ray images and their corresponding lung masks for the lung segmentation task. TB labels and demographic metadata are not used by the segmentation model.
